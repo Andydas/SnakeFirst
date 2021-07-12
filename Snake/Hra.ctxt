@@ -1,0 +1,37 @@
+#BlueJ class context
+comment0.target=Hra
+comment0.text=\r\n\ Ovl\u00E1da\ v\u0161etky\ \u010Dasti\ hry\ a\ triedy\ ktor\u00E9\ ju\ tvoria\r\n
+comment1.params=
+comment1.target=Hra()
+comment1.text=\r\n\ Vytvori\ novu\ hru\ snake.\r\n\ Pociatocne\ skore\ nastavene\ na\ 0,\ zakazana\ zmena\ smeru.\r\n
+comment10.params=
+comment10.target=void\ pohyb()
+comment10.text=\r\n\ Posiela\ spravu\ hadovi\ aby\ vykonal\ pohyb.\r\n\ Prva\ podmienka\ osetruje\ aby\ sa\ nic\ nevykonalo\ pokial\ je\ hra\ pozastavena\ alebo\ ukoncena\r\n\ Druha\ podmienka\ osetruje\ aby\ sa\ hra\ ukoncila\ ak\ had\ do\ niecoho\ narazil\r\n\ Tretia\ podmienka\ vykonava\ pohyb\ hada\ a\ zaroven\ pripocita\ 10\ score\ ak\ had\ zjedol\ jablko\r\n
+comment11.params=
+comment11.target=void\ restartujHru()
+comment11.text=\r\n\ Restartuje\ hru.\r\n\ Vymaze\ sa\ stary\ had,\ vykresi\ sa\ novy\r\n\ Vymaze\ sa\ stare\ jablko,\ vykresli\ sa\ nove\r\n\ Score\ sa\ vynuluje\ a\ vynuluje\ sa\ aj\ na\ diplayi\r\n
+comment2.params=
+comment2.target=void\ posunD()
+comment2.text=\r\n\ Posiela\ spravu\ hadovi\ aby\ zmenil\ smer\ pohybu\ smerom\ DOLE\ a\ zakaze\ dalsiu\ zmenu\ smeru.\r\n\ Metoda\ je\ osetrena\ aby\ sa\ had\ neotocil\ sam\ do\ seba.\ \r\n
+comment3.params=
+comment3.target=void\ posunH()
+comment3.text=\r\n\ Posiela\ spravu\ hadovi\ aby\ zmenil\ smer\ pohybu\ smerom\ HORE\ a\ zakaze\ dalsiu\ zmenu\ smeru.\r\n\ Metoda\ je\ osetrena\ aby\ sa\ had\ neotocil\ sam\ do\ seba.\ \r\n
+comment4.params=
+comment4.target=void\ posunL()
+comment4.text=\r\n\ Posiela\ spravu\ hadovi\ aby\ zmenil\ smer\ pohybu\ smerom\ DOLAVA\ a\ zakaze\ dalsiu\ zmenu\ smeru.\r\n\ Metoda\ je\ osetrena\ aby\ sa\ had\ neotocil\ sam\ do\ seba.\ \r\n
+comment5.params=
+comment5.target=void\ posunR()
+comment5.text=\r\n\ Posiela\ spravu\ hadovi\ aby\ zmenil\ smer\ pohybu\ smerom\ DOPRAVA\ a\ zakaze\ dalsiu\ zmenu\ smeru.\r\n\ Metoda\ je\ osetrena\ aby\ sa\ had\ neotocil\ sam\ do\ seba.\ \r\n
+comment6.params=
+comment6.target=void\ nastavPauzu()
+comment6.text=\r\n\ Posiela\ spravu\ hadovi\ aby\ obratil\ hodnotu\ pauzy.\r\n\ Metoda\ je\ osetrena\ aby\ had\ nemohol\ menit\ smer\ ked\ je\ hra\ zastavena.\ \r\n
+comment7.params=
+comment7.target=int\ getScore()
+comment7.text=\r\n\ Vrati\ ciselnu\ hodnotu\ score\ v\ int.\r\n
+comment8.params=
+comment8.target=boolean\ getPauza()
+comment8.text=\r\n\ Vrati\ boolean\ hodnotu\ pauzy,\ TRUE\ \=\ hra\ je\ pozastavena,\ FALSE\ \=\ hra\ nie\ je\ pozastavena.\r\n
+comment9.params=
+comment9.target=void\ ukonciHru()
+comment9.text=\r\n\ Ukonci\ hru\ hada,\ vypise\ dosiahnute\ score\ a\ restartuje\ hru.\r\n
+numComments=12

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SegmentoveCislo
+comment0.text=\r\n\ Cislico\ tvorene\ 7\ segmentami.\ \r\n\ Podla\ zadanych\ suradnic\ a\ hodnoty\ vykresli\ cislicu\ pomocou\ jednotlivych\ segmentov.\r\n
+comment1.params=x\ y\ hodnota
+comment1.target=SegmentoveCislo(int,\ int,\ int)
+comment1.text=\r\n\ Vytvori\ cislo\ spolu\ s\ jeho\ ciernym\ pozadim\ so\ sirkou\ 16,\ vyskou\ 28\r\n\ sirka\ cisla\ je\ 14,\ vyska\ cisla\ 26,\ okraj\ cislice\ je\ 1\r\n
+comment2.params=hodnota
+comment2.target=void\ zobraz(int)
+comment2.text=\r\n\ Zobrazi\ cislo\ podla\ hodnoty\ 0\ az\ 9\r\n
+numComments=3

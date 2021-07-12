@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=SegmentPola
+comment0.text=\r\n\ Uklada\ suradnice\ a\ farbu\ jednotlivych\ stvorcov\ v\ hracom\ poli\ ako\ segment\ pola.\r\n
+comment1.params=riadok\ stlpec\ farba
+comment1.target=SegmentPola(int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Vytvori\ novy\ segment\ pola\ podla\ zadaneho\ riadku,\ stlpca\ a\ farby.\r\n
+comment2.params=
+comment2.target=void\ zobraz()
+comment2.text=\r\n\ Zobrazi\ dany\ segment\ tak,\ ze\ stvorec\ hracieho\ pola\ na\ rovnakych\ suradniciach\ prefarbi\ podla\ zadanej\ farby.\r\n
+comment3.params=
+comment3.target=void\ skry()
+comment3.text=\r\n\ Skryje\ dany\ segment\ tak,\ farebny\ stvorec\ hracieho\ pola\ zmeni\ naspat\ na\ ciernu\ farbu.\r\n
+comment4.params=riadok\ stlpec
+comment4.target=void\ nastav(int,\ int)
+comment4.text=\r\n\ Zmeni\ riadok\ a\ stlpec\ aktualneho\ segmentu.\r\n
+comment5.params=
+comment5.target=int\ getRiadok()
+comment5.text=\r\n\ Vrati\ aktualny\ riadok\ segmentu.\r\n
+comment6.params=
+comment6.target=int\ getStlpec()
+comment6.text=\r\n\ Vrati\ aktualny\ stlpec\ segmentu.\r\n
+numComments=7

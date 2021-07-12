@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=HraciePole
+comment0.text=\r\n\ Hracie\ pole\ na\ ktorom\ sa\ pohybuje\ had\ a\ vykresluje\ sa\ jablko\r\n
+comment1.params=
+comment1.target=HraciePole\ getHraciePole()
+comment1.text=\r\n\ Jedinacik\ hracieho\ pola.\r\n
+comment2.params=
+comment2.target=HraciePole()
+comment2.text=\r\n\ Vytvori\ nove\ hracie\ pole\ s\ rozmerom\ 20x20\ stvorcov\ s\ rozmerom\ 15x15\ pricom\ kazdy\ stvorec\ ma\ okraj\ 1.\r\n\ Hracie\ pole\ ma\ modry\ okraj\ ktory\ je\ chapany\ ako\ stena\ pola.\r\n
+comment3.params=
+comment3.target=void\ vykresliOkraj()
+comment3.text=\r\n\ Vykresli\ modru\ stenu\ hraieho\ pola.\r\n
+comment4.params=riadok\ stlpec
+comment4.target=char\ obsadenyStvorec(int,\ int)
+comment4.text=\r\n\ Kontroluje\ cim\ je\ obsadeny\ stvorec\ pola.\ \r\n\ Jablko\ (cerveny\ stvorec)\ \=\ 'j'\r\n\ Had\ (zeleny\ stvorec)\ \=\ 'h'\r\n\ Okraj\ (stena)\ pola\ (modry\ stvorec)\ \=\ 'o'\r\n\ Volne\ policko\ pola\ (cierny\ stvorec)\ \=\ 'n'\r\n
+comment5.params=riadok\ stlpec\ farba
+comment5.target=void\ prefarbiStvorec(int,\ int,\ java.lang.String)
+comment5.text=\r\n\ Prefarbuje\ jednotlive\ stvorce\ pola\ podla\ zadanych\ suradnic\ na\ danu\ farbu.\r\n
+comment6.params=
+comment6.target=int\ getSirka()
+comment6.text=\r\n\ Vracia\ sirku\ pola\ (pocet\ stvorcov\ na\ sirku).\r\n
+comment7.params=
+comment7.target=int\ getVyska()
+comment7.text=\r\n\ Vracia\ vysku\ pola\ (pocet\ stvorcov\ na\ vysku).\r\n
+numComments=8

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Jablko
+comment0.text=\r\n\ Jablko,\ ktore\ sluzi\ ako\ potrava\ pre\ hada.\r\n\ Po\ tom\ ako\ had\ zje\ jablko,\ vykresli\ sa\ nove.\r\n\ Suradnice\ jablka\ su\ generovane\ nahodne\ a\ tak,\ aby\ boli\ vzdy\ mimo\ hada\ a\ mimo\ okraj.\r\n
+comment1.params=
+comment1.target=Jablko\ getJablko()
+comment1.text=\r\n\ Jedinacik\ jablka.\r\n
+comment2.params=
+comment2.target=Jablko()
+comment2.text=\r\n\ Vytvori\ prve\ jablko\ na\ nahodnych\ suradniciach.\r\n
+comment3.params=
+comment3.target=void\ vytvorJablko()
+comment3.text=\r\n\ Vytvori\ nove\ jablko\ na\ nahodnych\ suradniciach.\r\n
+comment4.params=
+comment4.target=boolean\ povolenySpawn()
+comment4.text=\r\n\ Kontroluje\ ci\ genrovane\ suradnice\ jablka\ su\ mimo\ hada\ a\ mimo\ steny\ hracieho\ pola\r\n
+comment5.params=
+comment5.target=void\ skryJablko()
+comment5.text=\r\n\ Skryje\ aktualne\ jablko\r\n
+comment6.params=
+comment6.target=int\ getRiadok()
+comment6.text=\r\n\ Vrati\ riadok\ na\ ktorom\ sa\ jablko\ nachadza\ v\ poli.\r\n
+comment7.params=
+comment7.target=int\ getStlpec()
+comment7.text=\r\n\ Vrati\ stlpec\ na\ ktorom\ sa\ jablko\ nachadza\ v\ poli.\r\n
+numComments=8

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Score
+comment0.text=\r\n\ Sekcia,\ ktora\ vykresli\ slovo\ "Score\:"\ pomocou\ segmentovych\ pismen\ a\ za\ nim\ ciselnu\ hodnotu\ score\ podla\ zadaneho\ vstupu.\r\n
+comment1.params=hodnotaScore
+comment1.target=Score(int)
+comment1.text=\r\n\ Vytvori\ sa\ sekcia\ nad\ hracim\ polom,\ kde\ sa\ zobrazi\ napis\ "Score\:"\ a\ aktualne\ score.\r\n\ Sekcia\ ma\ vysku\ 30\ a\ sirku\ 390.\ Biele\ pismena\ a\ cisla\ na\ ciernom\ pozadi.\ \ \ \ \ \r\n
+comment2.params=
+comment2.target=int\ getScore()
+comment2.text=\r\n\ Vrati\ aktualnu\ hodnotu\ score.\r\n
+comment3.params=score
+comment3.target=void\ noveScore(int)
+comment3.text=\r\n\ Prepise\ aktualne\ zobrazenu\ ciselnu\ hodnotu\ score\ podla\ zadaneho\ vstupu.\r\n
+numComments=4

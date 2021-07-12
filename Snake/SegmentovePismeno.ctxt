@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SegmentovePismeno
+comment0.text=\r\n\ Pismeno\ tvorene\ 9\ segmentami\ (7segmentov\ pismeno,\ 8\ a\ 9\ segment\ tvoria\ dvojbodku).\ \r\n\ Podla\ zadanych\ suradnic\ a\ hodnoty\ vykresli\ pismeno\ pomocou\ jednotlivych\ segmentov.\r\n
+comment1.params=x\ y\ hodnota
+comment1.target=SegmentovePismeno(int,\ int,\ char)
+comment1.text=\r\n\ Vytvori\ pismeno\ spolu\ s\ jeho\ ciernym\ pozadim\ so\ sirkou\ 16,\ vyskou\ 28\r\n\ sirka\ pismena\ je\ 14,\ vyska\ 26\r\n\ okraj\ je\ 1\r\n
+comment2.params=hodnota
+comment2.target=void\ zobraz(char)
+comment2.text=\r\n\ Zobrazi\ pismeno\ podla\ vstupnej\ hodnoty\ {s,\ c,\ o,\ r,\ e,\ \:}\r\n
+numComments=3
